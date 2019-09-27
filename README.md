@@ -10,4 +10,4 @@ The product studio of Nathan Gathright
 
 ## Links
 * [Email](mailto:hello@resonantconcepts.com)
-* [Twitter](@resonantconcept)
+* [Twitter](https://twitter.com/resonantconcept)
